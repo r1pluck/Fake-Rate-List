@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [
+    "id": 60012134,
+    "name": "Biohazzard Circles",
+    "author": "H0ryCZ",
+    "creators": "StormBlazer"
+    "verifier": "H0ryCZ"
+    "verification": "https://youtu.be/oHz-GIP1wtg?si=Km8E4gHLz2sKKU5U",
+    "percentToQualify": 100
+    "password": "Copyable",
+    "records": [0
+        {
+            "user": "No One",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
